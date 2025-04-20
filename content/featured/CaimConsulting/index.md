@@ -2,8 +2,8 @@
 date: '1'
 title: 'Movie Recommendation Engine'
 cover: 'demo2.png'
-github: 'https://github.com/Roopshree6902/Movie-Recommender-System'
-external: 'https://github.com/Roopshree6902/Movie-Recommender-System'
+github: 'https://github.com/professionalMishra'
+external: 'https://github.com/professionalMishra'
 tech:
   - React
   - Python

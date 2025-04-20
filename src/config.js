@@ -11,7 +11,7 @@ module.exports = {
   name: 'Raj Mishra',
   location: 'Satna MP, India',
   email: 'RajxMishra2003@gmail.com',
-  github: 'https://github.com/ProfessionalMishra',
+  github: 'https://github.com/professionalMishra',
   twitterHandle: '@ProfessionalMishra',
   socialMedia: [
     {
@@ -20,11 +20,11 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/roopshree-udaiwal-2831031b5/',
+      url: 'https://www.linkedin.com/in/rajmishraji/',
     },
     {
       name: 'Leetcode',
-      url: 'https://leetcode.com/Mishraji_op/',
+      url: 'https://leetcode.com/u/Mishraji_op/',
     },
     {
       name: 'Instagram',

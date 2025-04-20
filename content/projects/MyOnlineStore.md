@@ -1,8 +1,8 @@
 ---
 date: '2021-03-15'
 title: 'Flutter Apps'
-github: 'https://github.com/Roopshree6902/flutter_apps'
-external: 'https://github.com/Roopshree6902/flutter_apps'
+github: 'https://github.com/professionalMishra'
+external: 'https://github.com/professionalMishra'
 tech:
   - Dart
 

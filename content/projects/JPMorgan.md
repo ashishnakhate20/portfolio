@@ -1,8 +1,8 @@
 ---
 date: '2021-05-01'
 title: 'Banking System'
-github: 'https://github.com/Roopshree6902/Banking_System'
-external: 'https://github.com/Roopshree6902/Banking_System'
+github: 'https://github.com/professionalMishra'
+external: 'https://github.com/professionalMishra'
 tech:
   - C++
 showInProjects: true

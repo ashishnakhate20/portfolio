@@ -1,10 +1,11 @@
 ---
 date: '2021-09-06'
-title: 'Consultant Intern'
-company: 'Geeks for Geeks'
-range: 'September 2021 - November 2021'
+title: 'Data Analyst Intern'
+company: 'Otaku Threads'
+range: 'September 2023 - November 2024'
 url: ''
 ---
 
-- Working as a Consultant to guide student community.
-- Helping hand for company's economical growth. 
+- Implemented data analysis techniques to extract insights and support data-driven decision-making.
+- Developed visualization and dashboard creation using Excel, SQL, and R; conducted Exploratory Data Analysis (EDA); collaborated to improve data collection and reporting.  
+- Optimized automation to streamline workflows and enhance data integrity for improved efficiency and accuracy. 
