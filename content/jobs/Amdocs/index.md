@@ -1,12 +1,13 @@
 ---
 date: '2021-06-01'
-title: 'Campus Mantri'
-company: 'Geeks for Geeks'
-range: 'June 2023 - June 2024'
+title: 'Summer internship at cipherschool'
+company: 'cipherschool'
+range: 'May 2024 - july 2024'
 url: 'https://www.linkedin.com/posts/'
 ---
 
-- Working as a bridge betwwen GFG and university students, to make them aware of all kind of events, contests & opportunities at [GFG-LPU](https://www.linkedin.com/company/geeksforgeekslpu/).
+- As a python ml data science.
+- I completed a Summer Internship at CipherSchool, where I focused on Python, Machine Learning, and Data Science. 
+- During the internship, I worked on real-world projects that enhanced my skills in data analysis, model building, and problem-solving.
 
-- Leading various awareness programs, workshops seminars, and other events at university on behalf of GeeksforGeeks.
 
